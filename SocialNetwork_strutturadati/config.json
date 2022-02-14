@@ -1,0 +1,14 @@
+{
+  "secondiAttesaChiusura": 160000,
+  "portRegistryRMI": 12120,
+  "serviceName": "RMIregistration",
+  "serviceCallbackReg": "RMIcallback",
+  "fileJson": "saved.json",
+  "portaServer": 1234,
+  "portaMulticast": 44444,
+  "indirizzoMulticast": "239.255.32.32",
+  "percentualePremioAutore": 70,
+  "msecondiProssimoConteggioReward": 160000,
+  "msecondiProssimoSalvataggio": 160000
+
+}

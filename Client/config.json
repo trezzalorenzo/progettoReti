@@ -1,0 +1,9 @@
+{
+  "portRMI": 12120,
+  "serviceName": "RMIregistration",
+  "portTCP": 1234,
+  "nomeServer": "localhost",
+  "portCallback": 12120,
+  "nomeServizioCallback": "RMIcallback"
+
+}

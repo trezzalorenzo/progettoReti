@@ -1,0 +1,398 @@
+{
+  "autoriPost": {
+    "jessie": [
+      {
+        "idpost": 4,
+        "autore": "jessie",
+        "titolo": "gattini",
+        "contenuto": "sono belli",
+        "upVote": [],
+        "downVote": [],
+        "commenti": [],
+        "opAutore": "jessie",
+        "originalId": 4,
+        "data": "Jan 27, 2022, 11:54:26 AM",
+        "iterazioni": 148,
+        "likeDaUltimaIterazione": 0,
+        "dislikeDaUltimaIterazione": 0,
+        "commentiDaUltimaIterazione": 0
+      },
+      {
+        "idpost": 5,
+        "autore": "jessie",
+        "titolo": "gattini",
+        "contenuto": "sono belli",
+        "upVote": [],
+        "downVote": [],
+        "commenti": [],
+        "opAutore": "jessie",
+        "originalId": 5,
+        "data": "Jan 27, 2022, 11:54:26 AM",
+        "iterazioni": 148,
+        "likeDaUltimaIterazione": 0,
+        "dislikeDaUltimaIterazione": 0,
+        "commentiDaUltimaIterazione": 0
+      }
+    ],
+    "pier": [
+      {
+        "idpost": 2,
+        "autore": "pier",
+        "titolo": "asinelli",
+        "contenuto": "gli asinelli sono belli",
+        "upVote": [
+          "bob"
+        ],
+        "downVote": [],
+        "commenti": [],
+        "opAutore": "carl",
+        "originalId": 1,
+        "data": "Jan 27, 2022, 11:54:26 AM",
+        "iterazioni": 149,
+        "likeDaUltimaIterazione": 0,
+        "dislikeDaUltimaIterazione": 0,
+        "commentiDaUltimaIterazione": 0
+      }
+    ],
+    "bob": [
+      {
+        "idpost": 3,
+        "autore": "bob",
+        "titolo": "gattini",
+        "contenuto": "sono belli",
+        "upVote": [
+          "lorenzo"
+        ],
+        "downVote": [],
+        "commenti": [
+          {
+            "nome": "lorenzo",
+            "testo": "mi piace"
+          }
+        ],
+        "opAutore": "bob",
+        "originalId": 3,
+        "data": "Jan 27, 2022, 11:54:26 AM",
+        "iterazioni": 149,
+        "likeDaUltimaIterazione": 0,
+        "dislikeDaUltimaIterazione": 0,
+        "commentiDaUltimaIterazione": 1
+      },
+      {
+        "idpost": 7,
+        "autore": "bob",
+        "titolo": "gattini",
+        "contenuto": "sono belli",
+        "upVote": [],
+        "downVote": [],
+        "commenti": [],
+        "opAutore": "bob",
+        "originalId": 7,
+        "data": "Jan 27, 2022, 11:54:26 AM",
+        "iterazioni": 149,
+        "likeDaUltimaIterazione": 0,
+        "dislikeDaUltimaIterazione": 0,
+        "commentiDaUltimaIterazione": 0
+      },
+      {
+        "idpost": 12,
+        "autore": "bob",
+        "titolo": "sdfj",
+        "contenuto": "sdlkfj",
+        "upVote": [],
+        "downVote": [],
+        "commenti": [],
+        "opAutore": "bob",
+        "originalId": 12,
+        "data": "Feb 4, 2022, 11:44:37 AM",
+        "iterazioni": 5,
+        "likeDaUltimaIterazione": 0,
+        "dislikeDaUltimaIterazione": 0,
+        "commentiDaUltimaIterazione": 0
+      }
+    ],
+    "walter": [
+      {
+        "idpost": 6,
+        "autore": "walter",
+        "titolo": "gattini",
+        "contenuto": "sono belli",
+        "upVote": [],
+        "downVote": [],
+        "commenti": [],
+        "opAutore": "walter",
+        "originalId": 6,
+        "data": "Jan 27, 2022, 11:54:26 AM",
+        "iterazioni": 149,
+        "likeDaUltimaIterazione": 0,
+        "dislikeDaUltimaIterazione": 0,
+        "commentiDaUltimaIterazione": 0
+      }
+    ],
+    "carl": [
+      {
+        "idpost": 1,
+        "autore": "carl",
+        "titolo": "asinelli",
+        "contenuto": "gli asinelli sono belli",
+        "upVote": [],
+        "downVote": [],
+        "commenti": [],
+        "opAutore": "carl",
+        "originalId": 1,
+        "data": "Jan 27, 2022, 11:54:26 AM",
+        "iterazioni": 149,
+        "likeDaUltimaIterazione": 0,
+        "dislikeDaUltimaIterazione": 0,
+        "commentiDaUltimaIterazione": 0
+      },
+      {
+        "idpost": 9,
+        "autore": "carl",
+        "titolo": "gattini",
+        "contenuto": "sono belli",
+        "upVote": [],
+        "downVote": [],
+        "commenti": [],
+        "opAutore": "carl",
+        "originalId": 9,
+        "data": "Jan 27, 2022, 11:54:26 AM",
+        "iterazioni": 149,
+        "likeDaUltimaIterazione": 0,
+        "dislikeDaUltimaIterazione": 0,
+        "commentiDaUltimaIterazione": 0
+      },
+      {
+        "idpost": 10,
+        "autore": "carl",
+        "titolo": "gattini",
+        "contenuto": "sono belli",
+        "upVote": [],
+        "downVote": [],
+        "commenti": [],
+        "opAutore": "carl",
+        "originalId": 10,
+        "data": "Jan 27, 2022, 11:54:26 AM",
+        "iterazioni": 149,
+        "likeDaUltimaIterazione": 0,
+        "dislikeDaUltimaIterazione": 0,
+        "commentiDaUltimaIterazione": 0
+      }
+    ],
+    "admin": [],
+    "Martin": [],
+    "lorenzo": [
+      {
+        "idpost": 14,
+        "autore": "lorenzo",
+        "titolo": "gattini",
+        "contenuto": "sono belli",
+        "upVote": [],
+        "downVote": [],
+        "commenti": [],
+        "opAutore": "bob",
+        "originalId": 3,
+        "data": "Feb 6, 2022, 11:32:53 AM",
+        "iterazioni": 2,
+        "likeDaUltimaIterazione": 0,
+        "dislikeDaUltimaIterazione": 0,
+        "commentiDaUltimaIterazione": 0
+      }
+    ]
+  },
+  "utenti": [
+    {
+      "nome": "bob",
+      "password": "000",
+      "tag": [
+        "cani",
+        "gatti",
+        "pesci"
+      ],
+      "follower": [
+        "lorenzo"
+      ],
+      "following": [
+        "pier"
+      ],
+      "wallet": {
+        "listaMovimenti": [
+          "0.001434097614951611",
+          "0.003278398826972714"
+        ],
+        "saldo": 0.004712496441924325
+      }
+    },
+    {
+      "nome": "carl",
+      "password": "000",
+      "tag": [
+        "asini",
+        "mucche"
+      ],
+      "follower": [
+        "pier"
+      ],
+      "following": [],
+      "wallet": {
+        "listaMovimenti": [],
+        "saldo": 0.0
+      }
+    },
+    {
+      "nome": "pier",
+      "password": "000",
+      "tag": [
+        "asini",
+        "cani"
+      ],
+      "follower": [
+        "bob",
+        "lorenzo"
+      ],
+      "following": [
+        "carl"
+      ],
+      "wallet": {
+        "listaMovimenti": [
+          "0.0033462277682204254"
+        ],
+        "saldo": 0.0033462277682204254
+      }
+    },
+    {
+      "nome": "jessie",
+      "password": "000",
+      "tag": [
+        "cani",
+        "leopardi"
+      ],
+      "follower": [],
+      "following": [],
+      "wallet": {
+        "listaMovimenti": [],
+        "saldo": 0.0
+      }
+    },
+    {
+      "nome": "walter",
+      "password": "000",
+      "tag": [
+        "asini",
+        "cani",
+        "mucche"
+      ],
+      "follower": [],
+      "following": [],
+      "wallet": {
+        "listaMovimenti": [],
+        "saldo": 0.0
+      }
+    },
+    {
+      "nome": "Martin",
+      "password": "000",
+      "tag": [
+        "tartarughe"
+      ],
+      "follower": [],
+      "following": [],
+      "wallet": {
+        "listaMovimenti": [],
+        "saldo": 0.0
+      }
+    },
+    {
+      "nome": "admin",
+      "password": "000",
+      "tag": [
+        "pane"
+      ],
+      "follower": [],
+      "following": [],
+      "wallet": {
+        "listaMovimenti": [],
+        "saldo": 0.0
+      }
+    },
+    {
+      "nome": "lorenzo",
+      "password": "123",
+      "tag": [
+        "gattini",
+        "pasta",
+        "cani"
+      ],
+      "follower": [],
+      "following": [
+        "bob",
+        "pier"
+      ],
+      "wallet": {
+        "listaMovimenti": [
+          "0.0014050280687025916"
+        ],
+        "saldo": 0.0014050280687025916
+      }
+    }
+  ],
+  "indice": [
+    {
+      "first": 1,
+      "second": 1,
+      "third": "carl"
+    },
+    {
+      "first": 2,
+      "second": 1,
+      "third": "pier"
+    },
+    {
+      "first": 3,
+      "second": 3,
+      "third": "bob"
+    },
+    {
+      "first": 4,
+      "second": 4,
+      "third": "jessie"
+    },
+    {
+      "first": 5,
+      "second": 5,
+      "third": "jessie"
+    },
+    {
+      "first": 6,
+      "second": 6,
+      "third": "walter"
+    },
+    {
+      "first": 7,
+      "second": 7,
+      "third": "bob"
+    },
+    {
+      "first": 9,
+      "second": 9,
+      "third": "carl"
+    },
+    {
+      "first": 10,
+      "second": 10,
+      "third": "carl"
+    },
+    {
+      "first": 12,
+      "second": 12,
+      "third": "bob"
+    },
+    {
+      "first": 14,
+      "second": 3,
+      "third": "lorenzo"
+    }
+  ],
+  "lastid": 14
+
+}
